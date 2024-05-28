@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend developer from Nepal</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-<img align="right" alt="coding" width="400" src="./Animation - 1716876179787.gif">
+<img align="right" alt="coding" width="400" src="./Animation - 1716876179787.json">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushhh44&label=Profile%20views&color=0e75b6&style=flat" alt="aayushhh44" /> </p>
